@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\LQD_10_12.exe.config
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\LQD_10_12.exe
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\LQD_10_12.pdb
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\BLL.dll
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\DTO.dll
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\BLL.pdb
+C:\Users\admin\source\repos\LQD_10_12\bin\Debug\DTO.pdb
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.Properties.Resources.resources
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.csproj.Up2Date
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.exe
+C:\Users\admin\source\repos\LQD_10_12\obj\Debug\LQD_10_12.pdb

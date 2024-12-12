@@ -1,0 +1,7 @@
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\DocGia.frmDocGia.resources
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+D:\PT DESKTOP\LQD\DocGia\DocGia\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache

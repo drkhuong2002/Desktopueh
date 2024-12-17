@@ -1,0 +1,12 @@
+C:\Users\Dung\source\repos\quanlydocgia\DTO\bin\Debug\DTO.dll
+C:\Users\Dung\source\repos\quanlydocgia\DTO\bin\Debug\DTO.pdb
+C:\Users\Dung\source\repos\quanlydocgia\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Dung\source\repos\quanlydocgia\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dung\source\repos\quanlydocgia\DTO\obj\Debug\DTO.dll
+C:\Users\Dung\source\repos\quanlydocgia\DTO\obj\Debug\DTO.pdb
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\bin\Debug\DTO.dll
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\bin\Debug\DTO.pdb
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\obj\Debug\DTO.dll
+C:\Users\Hoa\Downloads\quanlydocgia\quanlydocgia\DTO\obj\Debug\DTO.pdb

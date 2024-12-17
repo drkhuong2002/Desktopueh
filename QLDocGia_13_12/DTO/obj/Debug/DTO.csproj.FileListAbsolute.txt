@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\obj\Debug\DTO.dll
+C:\Users\admin\Desktop\QLDocGia_13_12\DTO\obj\Debug\DTO.pdb
